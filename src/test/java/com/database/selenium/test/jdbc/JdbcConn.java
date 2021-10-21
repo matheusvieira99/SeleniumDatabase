@@ -13,9 +13,11 @@ public class JdbcConn {
 	public String password = "admin";
 	
 	public ResultSet result;
-	
+
 	//BaseTest baseTest = new BaseTest();
-	
+
+
+
 	public void configuracao() {
 	
 	try {
